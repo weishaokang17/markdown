@@ -16,4 +16,4 @@
 
 图片3:  
 
-![航空母舰](../pictures/img_1.png)   
+![航空母舰](../pictures/img_2.png)   
